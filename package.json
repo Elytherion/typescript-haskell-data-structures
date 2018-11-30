@@ -1,0 +1,33 @@
+{
+  "name": "typescript-haskell-data-structures",
+  "version": "0.0.1",
+  "description": "Immutable Haskell-like data structures for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elytherion/typescript-haskell-data-structures.git"
+  },
+  "keywords": [
+    "haskell",
+    "typescript",
+    "structures",
+    "maybe"
+  ],
+  "author": "Lukas Obermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elytherion/typescript-haskell-data-structures/issues"
+  },
+  "homepage": "https://github.com/Elytherion/typescript-haskell-data-structures#readme",
+  "devDependencies": {
+    "@types/ramda": "0.25.42",
+    "jest": "23.6.0",
+    "typescript": "3.2.1"
+  },
+  "dependencies": {
+    "ramda": "0.26.1"
+  }
+}
